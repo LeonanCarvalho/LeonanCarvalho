@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AWS Cloud, ElectronJS and VueJS
 - 💬 Ask me about anything on stackoverflow https://stackoverflow.com/users/3706998/leonancarvalho
 - 📫 How to reach me: https://www.linkedin.com/in/leonancarvalho/
-- ⚡ Fun fact: I'm 9º (Dark Red Belt)  on taekwondo and Boy Scout for life 
+- ⚡ Fun fact: I'm 9º GUB Belt in taekwondo (Dark Red Belt) and Boy Scout for life 
 
 
 ![LeonanCarvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonancarvalho&count_private=true&show_icons=true&theme=tokyonight)
