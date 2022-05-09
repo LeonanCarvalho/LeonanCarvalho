@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on https://transfeera.com/
-- 🌱 I’m currently learning AWS Cloud, ElectronJS and VueJS
+- 🌱 I’m currently learning AWS Cloud and Golang
 - 💬 Ask me about anything on stackoverflow https://stackoverflow.com/users/3706998/leonancarvalho
 - 📫 How to reach me: https://www.linkedin.com/in/leonancarvalho/
 - ⚡ Fun fact: I'm 9º GUB Belt in taekwondo (Dark Red Belt) and Boy Scout for life 
